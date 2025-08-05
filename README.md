@@ -10,6 +10,7 @@ You can download it here or somewhere else
 
 ## Terms of Usage
 You can do anything you want except commercial reuse of official resource pack (cuz it is free. We don't wanna make it paid or something, cuz we made it just for us and tryna share it here. Under "commercial reuse" we understand selling this resource pack). You can add this resource pack to your server or modify it as you want.  
+
 Strongly recommended to play with Insanity Shader or something like this (check screenshots with it below)
 
 ## Ancientness + Insanity Shader
